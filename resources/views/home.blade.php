@@ -6,9 +6,8 @@
         <div class="col-md-12">
             <div class="card">
                 <div class="card-header">{{ __('crud app') }}</div>
-
                 <div class="card-body">
-                   
+               
                 </div>
             </div>
         </div>
